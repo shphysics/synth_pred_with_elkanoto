@@ -1,0 +1,48 @@
+(use I to insert at the start of current line) use i for insert at current location (use a to insert after current location) [use A to insert after end of the current line]
+use O insert line above current line
+use o insert line below curretnt line  
+use s to delete character under cursor and start inserting in its place 
+ssdflkjasd;flkjsa;dlkfja;lsdkfj;slkdfjsa;ldkfj;s
+ok
+oksjf
+sdfsaf
+sdfas
+dfs
+df
+asfd
+sa
+df
+asfd
+sa
+df
+sa
+dfsa
+df
+as
+fs
+fd
+as
+f
+asfd
+as
+f
+saf
+sf
+sa
+fsd
+fsdfsf
+afsfsffoff
+dslkfjas;lfkj
+sdlfksajfs
+
+sdf
+d
+sfsd
+fsd
+fd
+fd
+fd
+fsd
+fsd
+fds
+f
